@@ -1,0 +1,26 @@
+Attribute List:
+
+Entity: Student
+primary key/student ID = firstnamelastnameDOB
+last_name
+first_name
+dob
+annual_due
+reeval_due
+weighting
+case_manager
+roster_teacher(provider ID)
+
+Entity: Provider
+primary key/provider ID = auto increment int
+last_name
+first_name
+building
+
+Entity: Services
+primary key/service ID = auto increment int
+type
+provider
+minutes
+frequency
+student (student ID)
