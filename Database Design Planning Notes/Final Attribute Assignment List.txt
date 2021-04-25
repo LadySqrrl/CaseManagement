@@ -1,26 +1,34 @@
 Attribute List:
 
-Entity: Student
-primary key/student ID = firstnamelastnameDOB
-last_name
-first_name
-dob
-annual_due
-reeval_due
-weighting
-case_manager
-roster_teacher(provider ID)
+Entity: Student / students_tbl
+studentID VARCHAR(100) NOT NULL,         * format: firstnamelastnameDOB
+student_last_name VARCHAR(50), 
+student_first_name VARCHAR(50),
+dob VARCHAR(10),
+grade INT,
+annual_due VARCHAR(10),
+reeval_due VARCHAR(10),
+weighting INT,
+case_manager VARCHAR(50),
+roster_teacher VARCHAR(50),
+PRIMARY KEY (studentID),
+FOREIGN KEY (roster_teacher) REFERENCES providers_tbl(provider_name)
 
-Entity: Provider
-primary key/provider ID = auto increment int
-last_name
-first_name
-building
+Entity: Provider / providers_tbl
+providerID INT NOT NULL AUTO_INCREMENT,
+provider_name VARCHAR(50),
+district VARCHAR(100),
+building VARCHAR(50),
+PRIMARY KEY (providerID)
 
 Entity: Services
-primary key/service ID = auto increment int
-type
-provider
-minutes
-frequency
-student (student ID)
+serviceID INT NOT NULL AUTO_INCREMENT,
+type VARCHAR (5),
+provider VARCHAR(50),
+minutes INT,
+frequency VARCHAR(10),
+student VARCHAR(100),
+PRIMARY KEY (serviceID),
+FOREIGN KEY (provider) REFERENCES providers_tbl(provider_name)
+FOREIGN KEY (student) REFERENCES students_tbl(studentID)
+
