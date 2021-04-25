@@ -5,6 +5,7 @@ primary key/student ID = firstnamelastnameDOB
 last_name
 first_name
 dob
+grade
 annual_due
 reeval_due
 weighting
