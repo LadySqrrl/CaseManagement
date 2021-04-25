@@ -1,0 +1,31 @@
+Child_Last,Child_First,DOB,Grade,Bldg_Name,Res_Dist_Name,Provider,Provider_Position,WEF,Service_Code,Minutes,Per,IEP_Due,Reeval_Due
+Johnson,Chris,04/12/2008,6,Building 2,Local School District,Annie Cortez,Special Education Teacher,1.72,SD0,30,Day,09/13/2021,09/13/2023
+Johnson,Chris,04/12/2008,6,Building 2,Local School District,Generic Teacher Associate (TA),Generic Provider,1.72,TA0,60,Day,09/13/2021,09/13/2023
+Johnson,Chris,04/12/2008,6,Building 2,Local School District,Annie Cortez,Special Education Teacher,1.72,SD0,60,Week,09/13/2021,09/13/2023
+Johnson,Chris,04/12/2008,6,Building 2,Local School District,Annie Cortez,Special Education Teacher,1.72,SD0,84,Day,09/13/2021,09/13/2023
+Smith,John,06/10/2008,7,Building 1,Local School District,Annie Cortez,Special Education Teacher,2.21,SD0,42,Day,09/27/2021,09/27/2023
+Smith,John,06/10/2008,7,Building 1,Local School District,Annie Cortez,Special Education Teacher,2.21,SD0,30,Day,09/27/2021,09/27/2023
+Smith,John,06/10/2008,7,Building 1,Local School District,Annie Cortez,Special Education Teacher,2.21,SD0,42,Day,09/27/2021,09/27/2023
+Smith,John,06/10/2008,7,Building 1,Local School District,Generic Teacher Associate (TA),Generic Provider,2.21,TA0,210,Day,09/27/2021,09/27/2023
+Jones,Selena,06/05/2007,7,Building 2,Local School District,Annie Cortez,Special Education Teacher,1.72,SD0,84,Day,01/18/2022,02/25/2022
+Jones,Selena,06/05/2007,7,Building 2,Local School District,Annie Cortez,Special Education Teacher,1.72,SD0,84,Week,01/18/2022,02/25/2022
+Jones,Selena,06/05/2007,7,Building 2,Local School District,Annie Cortez,Special Education Teacher,1.72,SD0,84,Day,01/18/2022,02/25/2022
+Adams,Patrick,10/26/2009,5,Building 2,Local School District,Sallie Holmes,Special Education Teacher,1.72,SD0,20,Day,02/21/2022,02/26/2023
+Bartlett,Hattie,12/22/2009,5,Building 2,Local School District,Charlene Kane,Speech-Language Pathologist,1.72,SS0,120,Month,01/20/2022,01/23/2023
+Bartlett,Hattie,12/22/2009,5,Building 2,Local School District,Sallie Holmes,Special Education Teacher,1.72,SD0,30,Day,01/20/2022,01/23/2023
+Bartlett,Hattie,12/22/2009,5,Building 2,Local School District,Sallie Holmes,Special Education Teacher,1.72,SD0,45,Day,01/20/2022,01/23/2023
+Benson,Joshua,11/7/2007,7,Building 1,Local School District,Annie Cortez,Special Education Teacher,1.72,SD0,20,Day,10/13/2021,04/21/2022
+Charles,Molly,09/29/2009,6,Building 1,Local School District,Maureen Jackson,Special Education Teacher,1.72,SD0,42,Day,02/01/2022,11/26/2021
+Charles,Molly,09/29/2009,6,Building 1,Local School District,Maureen Jackson,Special Education Teacher,1.72,SD0,42,Day,02/01/2022,11/26/2021
+Charles,Molly,09/29/2009,6,Building 1,Local School District,Maureen Jackson,Special Education Teacher,1.72,SD0,84,Day,02/01/2022,11/26/2021
+Charles,Molly,09/29/2009,6,Building 1,Local School District,Generic Paraprofessional (PP),Paraprofessional,1.72,TA0,84,Day,02/01/2022,11/26/2021
+Roberts,Sarah,05/23/2010,5,Building 2,Local School District,Sallie Holmes,Special Education Teacher,1.72,SD0,15,Day,09/22/2021,05/21/2022
+Roberts,Sarah,05/23/2010,5,Building 2,Local School District,Sallie Holmes,Special Education Teacher,1.72,SD0,20,Day,09/22/2021,05/21/2022
+Roberts,Sarah,05/23/2010,5,Building 2,Local School District,Sallie Holmes,Special Education Teacher,1.72,SD0,20,Day,09/22/2021,05/21/2022
+Roberts,Sarah,05/23/2010,5,Building 2,Local School District,Sallie Holmes,Special Education Teacher,1.72,SD0,20,Day,09/22/2021,05/21/2022
+Thomas,Tess,02/01/2009,6,Building 1,Local School District,Maureen Jackson,Special Education Teacher,1.72,SD0,80,Week,02/07/2022,02/05/2023
+Brown,Jashon,10/19/2006,8,Building 2,Local School District,Generic Teacher Associate (TA),Aide-Teacher,1.72,TA0,250,Day,09/20/2021,09/20/2023
+Brown,Jashon,10/19/2006,8,Building 2,Local School District,Annie Cortez,Special Education Teacher,1.72,SD0,50,Week,09/20/2021,09/20/2023
+Brown,Jashon,10/19/2006,8,Building 2,Local School District,Annie Cortez,Special Education Teacher,1.72,SD0,42,Day,09/20/2021,09/20/2023
+Jenkins,Sarah,10/4/2007,7,Building 1,Local School District,Generic Teacher Associate (TA),Generic Provider,1.72,TA0,42,Day,01/03/2022,01/24/2022
+Jenkins,Sarah,10/4/2007,7,Building 1,Local School District,Annie Cortez,Special Education Teacher,1.72,SD0,84,Week,01/03/2022,01/24/2022
