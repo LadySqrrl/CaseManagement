@@ -15,11 +15,10 @@ PRIMARY KEY (studentID),
 FOREIGN KEY (roster_teacher) REFERENCES providers_tbl(provider_name)
 
 Entity: Provider / providers_tbl
-providerID INT NOT NULL AUTO_INCREMENT,
-provider_name VARCHAR(50),
+provider_name VARCHAR(50) NOT NULL,
 district VARCHAR(100),
 building VARCHAR(50),
-PRIMARY KEY (providerID)
+PRIMARY KEY (provider_name)
 
 Entity: Services
 serviceID INT NOT NULL AUTO_INCREMENT,
